@@ -22,8 +22,10 @@ The future roadmap for Gaea includes further development of AI capabilities, exp
 
 ## How to get started ? <a name="paragraph4"></a>
 
-Create your account here: [Nodepay](https://app.aigaea.net/register?ref=gaFu4HCwAgdpmh)
+Create your account here: [AIGAEA](https://app.aigaea.net/register?ref=gaFu4HCwAgdpmh)
+
 Login your dashboard. Remember to click connect.
+
 Stay connected to earn constantly. Boost your earnings with referrals.
 ## How to using AIGAGE Auto Farm? <a name="paragraph5"></a>
 1. Login to your dashboard [here](https://app.aigaea.net/dashboard)
